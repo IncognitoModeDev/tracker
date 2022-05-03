@@ -1,2 +1,2 @@
 # weather-tracker
-https://incognitojs.github.io/weather-tracker/index.html
+https://incognitojs.github.io/weather/index.html
