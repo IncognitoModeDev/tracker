@@ -1,2 +1,2 @@
 # weather-tracker
-https://incognitomode.github.io/weather/index.html
+https://incognitomodedev.github.io/weather/index.html
